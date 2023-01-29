@@ -1,0 +1,2 @@
+# CompositeTensileSpecimenModel
+ FreeCADで作成した複合材料用の引張試験片のCADモデルおよびSTEPファイル
